@@ -1,0 +1,11 @@
+record_id,indicator,value,unit,population,source,source_type,data_status,caveat
+P1,OECD 国家至少每周用 AI 辅助学习的 15 岁学生比例,45.5,百分比,OECD 平均 15 岁学生,PISA 2025 Results Volume I（经 AI Impact Lab 转述 https://aiimpactlab.net/impact/pisa-ai-use-guidance-learning-divide）,二手转述,需回查官方原表,精确口径与分母须回查 OECD 官方报告；本值来自二手来源
+P2,报告在校被要求评估 AI 生成信息质量的 OECD 学生比例,62.6,百分比,OECD 平均 15 岁学生,PISA 2025 Results Volume I（经 AI Impact Lab 转述）,二手转述,需回查官方原表,约六成；不同解读来源给出 60%~62.6% 区间
+P3,PISA 2025 覆盖学生总数,760000,人,91 个国家/经济体的 15 岁学生,PISA 2025（经 UNESCO IIEP 与 AI Impact Lab 转述）,二手转述,需回查官方原表,系覆盖规模而非分析样本量
+P4,PISA 2025 覆盖国家/经济体数,91,个,国家与经济体,PISA 2025 官方,官方,已确认,与 PISA 2022 参与数不同
+P5,科学课多数时间被同学设备分心的学生比例,28,百分比,OECD 平均 15 岁学生,UNESCO IIEP https://unes.co/76p9q2,权威机构解读,需回查官方原表,
+P6,OECD 国家 2015-2025 阅读平均成绩下降,28,分(PISA 尺度),OECD 平均,浙江师大科学教育中心转述 PISA 2025 https://stem.zjnu.edu.cn/2026/0911/c13414a581126/page.htm,二手转述,需回查官方原表,是 2015-2025 十年趋势而非单年变化
+P7,hasty readers 比例变化,近乎翻倍,相对变化,OECD 平均,同上,二手转述,需回查官方原表,hasty readers 指快速阅读但作答不准的学生；无精确起止值
+P8,SES 差距 2022-2025 缩小的构成,优势学生下降所致,定性结论,OECD 平均,同上,二手转述,需回查官方原表,阅读中优势学生降约 20 分/弱势降 4 分；科学中优势降 8 分/弱势稳定
+P9,弱势学生获得 AI 信息评估教学机会,更少,定性结论,OECD 平均,UNESCO IIEP 与浙江师大转述,权威机构解读/二手转述,需回查官方原表,构成素养鸿沟命题的经验依据；无精确百分比
+P10,AI 使用与成绩关系方向,非线性/取决于用途频率与条件,定性结论,OECD 平均,UNESCO IIEP 与 OECD 解读,权威机构解读,已确认(定性),官方明确声明相关不等于因果
